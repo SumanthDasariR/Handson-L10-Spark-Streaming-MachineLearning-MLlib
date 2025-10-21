@@ -121,5 +121,3 @@ python task5.py
 
 * Ensure Spark and required Python packages are installed.
 * The project demonstrates both offline training and real-time inference using Spark Structured Streaming and MLlib.
-
-```
