@@ -123,6 +123,3 @@ python task5.py
 * The project demonstrates both offline training and real-time inference using Spark Structured Streaming and MLlib.
 
 ```
-
-
-
